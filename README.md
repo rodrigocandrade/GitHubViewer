@@ -1,2 +1,2 @@
 # GitHubViewer
-Trying something w/ angular+firebase
+Trying something w/ angular and GitHub API.
