@@ -1,2 +1,2 @@
-# GitHubViewer
-Trying something w/ angular and GitHub API.
+# GitHub Pesquisa
+Testando com AngularJS e GitHub API.
