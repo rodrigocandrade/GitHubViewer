@@ -1,4 +1,4 @@
-// Versão do AngularJS -> 1.3.0-beta.5
+
 
 (function() {
 
@@ -13,9 +13,9 @@
     };
 
   var onRepos = function(response){
-    
+
       $scope.repos = response.data;
-    
+
   };
 
 
@@ -33,8 +33,9 @@
     };
 
 
-    $scope.username = "angular";
+    $scope.username = "";
     $scope.message = "GitHub Viewer!";
+    $scope.repoSortOrder = '-stargazers_count';
 
 
   };
